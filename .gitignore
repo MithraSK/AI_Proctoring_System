@@ -1,0 +1,19 @@
+﻿# Virtual Environment
+proctor_env/
+venv/
+.env
+
+# Local Telemetry Data (Keep your repository clean)
+*.csv
+proctoring_report.csv
+tutor_exam_summary.csv
+
+# Weights and Models
+*.pt
+yolov8n.pt
+
+# Python caching
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
