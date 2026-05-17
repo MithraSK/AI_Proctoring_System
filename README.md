@@ -1,6 +1,4 @@
-﻿# Financial Intelligence & Analytics Dashboard
-
-An interactive web application built with Streamlit for financial data analysis, time-series forecasting, and anomaly detection.
+﻿# AI Proctoring System
 
 ## Prerequisites
 Before installing, ensure you have the following software installed on your system:
